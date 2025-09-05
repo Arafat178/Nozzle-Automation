@@ -73,8 +73,8 @@ To run locally (if you have access):
 ---
 
 ## Result
-![Front View](media/Screenshot (695).png)
-![Isometric View](media/Screenshot (697).png)
-![Cross Section](media/Screenshot (698).png)
-![right side view](media/Screenshot (696).gif)
+![Front View](media/front.png)
+![Isometric View](media/isometric.png)
+![Cross Section](media/cross.png)
+![right side view](media/right.gif)
 
