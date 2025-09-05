@@ -76,5 +76,22 @@ To run locally (if you have access):
 ![Front View](media/front.png)
 ![Isometric View](media/isometric.png)
 ![Cross Section](media/cross.png)
-![right side view](media/right.gif)
+![right side view](media/right.png)
+
+## Notes
+
+COM (Component Object Model):
+A Microsoft technology that allows software components to communicate and share functionality within Windows.
+
+API (Application Programming Interface):
+A set of rules and functions that lets one program use features of another program.
+
+COM API in SolidWorks:
+Enables automation by allowing Python (or other languages) to control SolidWorks: create sketches, extrude, revolve, cut, set views, and save files—all programmatically.
+
+PyWin32:
+A Python package that acts as a bridge between Python and Windows COM objects. It allows Python to control Windows applications like SolidWorks, Excel, Word, etc.
+
+
+
 
