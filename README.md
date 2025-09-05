@@ -1,4 +1,6 @@
 # Parametric CD Nozzle Generator (Python + SolidWorks API)
+[![Live Demo](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?style=for-the-badge&logo=github)](https://arafat178.github.io/Nozzle-Automation/)
+
 
 A Python-powered automation script to generate **3D convergent-divergent (CD) nozzle models** in SolidWorks based on user-defined dimensions.  
 *(Note: The main automation code is private; this repository showcases the project workflow, demo, and results.)*
